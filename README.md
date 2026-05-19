@@ -62,24 +62,6 @@ Projektin avulla osoitan osaamiseni järjestelmätuen ja IT**\-**tuen työtehtä
 | **Kommunikaatio** | Microsoft Teams |
 | **Projektinhallinta** | ProjectLibre |
 
-**5.PERUSTOIMINTO:** 
-
-## **5.1 Active Directoryn käyttöönotto** 
-
-* Tavoite:  
-   Määrittää Active Directory **\-**toimialue alusta alkaen.  
-* Vaiheet:  
-* Asenna Windows Server virtuaalikoneeseen.  
-* Ylennä palvelin toimialueen ohjaimeksi (Domain Controller, DC).  
-* Luo Active Directory **\-**toimialue.  
-* Luo organisaatioyksiköt (OU:t) eri osastoja varten.  
-* Luo käyttäjätilit ja ryhmät näihin organisaatioyksiköihin.
-
-
-## 📑 Sisällysluettelo
-
-- #projektin-yleiskuvaus
-- #tekninen-ympäristö
 ## 📅 Viikkokohtainen työ
 
 - ✅ [Week 1 – Suunnittelu & alkuasetukset](docs/week-1.md)
