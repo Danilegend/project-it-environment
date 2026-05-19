@@ -1,47 +1,100 @@
 # project-it-environment
 IT infrastructure project using Windows Server and Active Directory
-![VMware setup](images/other/Gemini_Generated_Image_1b6s5j1b6s5j1b6s.png)
+![General Look of the project ](images/other/Gemini_Generated_Image_1b6s5j1b6s5j1b6s.png)
 
 
-# 🖥️ IT-ympäristöprojekti – Northwind Tech Oy
+## **1 JOHDANTO**
 
-> Rakennettu käyttäen Windows Server, Active Directory ja VMware  
-> 📅 Aikaväli: 11.04.2026 – 30.05.2026  
-> 💻 Virtuaalilaboratorioympäristö  
+Tämän projektin tavoitteena on suunnitella ja toteuttaa Northwind Tech Oy:n IT-ympäristö. Projekti keskittyy erityisesti toimialueympäristön (Active Directory) käyttöönottoon sekä palvelin- ja työasemaympäristön kehittämiseen.
 
----
+Northwind Tech Oy on kuvitteellinen yritys, jota käytetään tässä projektissa esimerkkinä. Yrityksessä työskentelee noin 35 henkilöä eri osastoilla, kuten IT, myynti, talous ja asiakaspalvelu.
 
-## 📌 Projektin yleiskuvaus
+Projektin aikana toteutetaan palvelimen asennus, toimialueen luonti, käyttäjien ja ryhmien hallinta sekä perusasetusten määrittely. Lisäksi huomioidaan järjestelmän ylläpito ja tietoturva.
 
-Tässä projektissa suunnittelen ja toteutan pienen yrityksen IT-ympäristön.
+**![structure of the project](images/other/NorthWind_02.drawio.png)**
 
-Projektin tavoitteena on:
-- Rakentaa toimialueympäristö (Active Directory)
-- Hallita käyttäjiä ja ryhmiä
-- Toteuttaa tietoturvakäytännöt (GPO)
-- Testata järjestelmä käytännössä
 
----
+## **2 PROJEKTISUUNNITELMA**  
 
-## 🧰 Tekninen ympäristö
+Pienen yrityksen IT-ympäristön rakentaminen ja helpdesk-tuki  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### 🔧 Käytetyt teknologiat
-- VMware Workstation
-- Windows Server 2022
-- Windows 10 / 11
-- Active Directory
-- PowerShell
+| Opiskelija | Heyiredin Daniel Sema |
+| :---- | :---- |
+| **Koulutus** | Tieto- ja viestintätekniikan perustutkinto |
+| **Osatutkinnot** | Teknisessä tukipalvelussa toimiminen (TTT) · Järjestelmätuessa toimiminen (JT) |
+| **Ajankohta** | 7.4.2026 – 5.6.2026 |
+| **Oppilaitos** | Taitotalo, Helsinki |
+| **Ohjaaja / Arvioija** | Kari Vikman · [kari.vikman@taitotalo.fi](mailto:kari.vikman@taitotalo.fi) |
+| **Tavoitearvosana** | Hyvä 4 |
+| **Versio** | 2.0 · Laadittu 7.4.2026 |
 
-### 🏢 Yritys (fiktiivinen)
-- Northwind Tech Oy  
-- ~50 käyttäjää  
-- Osastot:
-  - IT
-  - Myynti
-  - Talous
-  - Asiakaspalvelu  
+## **2.1 Projektin tarkoitus** 
 
----
+Tämä projekti on näyttö Taitotalon IT-koulutuksessa. Rakennan pienen yrityksen IT-ympäristön virtuaalikoneilla. Harjoittelen IT-tuen ja järjestelmätuen työtehtäviä.
+
+Projektin avulla osoitan osaamiseni järjestelmätuen ja IT**\-**tuen työtehtävissä
+
+## **2.2 Fiktiivinen asiakas** 
+
+| Yrityksen nimi | Northwind Tech Oy |
+| :---- | :---- |
+| **Henkilöstö** | 50 käyttäjää |
+| **Toimiala** | Konsultointi |
+| **IT-ympäristö** | Paikallinen palvelin \+ Windows-työasemat |
+| **Asiakastarve** | Domain, käyttäjät, GPO, vakioitu työasema, perus-helpdesk-tuki |
+
+## **3\. PROJEKTIN TAVOITTEET** 
+
+## **3.1 Järjestelmätuen tavoitteet:** 
+
+* Asennan Windows Server 2022 \-palvelimen  
+* Teen Active Directory \-domainin  
+* Luon käyttäjät, ryhmät ja OU-rakenteen  
+* Määritän GPO-käytännöt (esim. ruudunlukitus, USB-esto)  
+* Teen varmuuskopion ja testaan palautuksen  
+* Seuraan palvelimia (monitorointi)
+
+## **3.2 Teknisen tukipalvelun tavoitteet:**   
+
+* Asennan Windows 10/11 \-työaseman ja liitän domainin  
+* Asennan tarvittavat sovellukset  
+* Luon 4–6 fiktiivistä helpdesk-tukipyyntöä ja ratkaisen ne  
+* Harjoittelen etäyhteyttä (RDP)  
+* Dokumentoin kaikki tukipyynnöt
+
+**3.3 Dokumentaation tavoitteet:**
+
+* Kirjoitan projektisuunnitelman, asennusraportit ja tietoturvakuvauksen  
+* Teen kuvakaappauksia jokaisesta työvaiheesta  
+* Kirjoitan päiväkirjaa joka työpäivä
+
+## **4\. TEKNINEN YMPÄRISTÖ**
+
+| Virtualisointiympäristö | VMware |
+| :---- | :---- |
+| **Palvelin** | Windows Server 2022 (virtuaalikone) |
+| **Työasema** | Windows 10 / 11 (virtuaalikone) |
+| **Hakemistopalvelu** | Active Directory Domain Services (AD DS) |
+| **Pilvipalvelu (valinnainen)** | Microsoft 365 Developer Tenant |
+| **Komentorivi** | PowerShell |
+| **Tiedostojen tallennus** | OneDrive (varmuuskopiot \+ dokumentit) |
+| **Kommunikaatio** | Microsoft Teams |
+| **Projektinhallinta** | ProjectLibre |
+
+**5.PERUSTOIMINTO:** 
+
+## **5.1 Active Directoryn käyttöönotto** 
+
+* Tavoite:  
+   Määrittää Active Directory **\-**toimialue alusta alkaen.  
+* Vaiheet:  
+* Asenna Windows Server virtuaalikoneeseen.  
+* Ylennä palvelin toimialueen ohjaimeksi (Domain Controller, DC).  
+* Luo Active Directory **\-**toimialue.  
+* Luo organisaatioyksiköt (OU:t) eri osastoja varten.  
+* Luo käyttäjätilit ja ryhmät näihin organisaatioyksiköihin.
+
 
 ## 📑 Sisällysluettelo
 
@@ -70,8 +123,6 @@ Projektin tavoitteena on:
 - Vaatimusten määrittely
 - VMware asennus
 - Windows Server ISO lataus
-
-![VMware setup](images/vmware/vmwarefull.drawio.png)
 
 
 
