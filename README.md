@@ -49,7 +49,7 @@ Projektin avulla osoitan osaamiseni järjestelmätuen ja IT**\-**tuen työtehtä
 | **Asiakastarve** | Domain, käyttäjät, GPO, vakioitu työasema, perus-helpdesk-tuki |
 
 
-## **4\. TEKNINEN YMPÄRISTÖ**
+## **3\. TEKNINEN YMPÄRISTÖ**
 
 | Virtualisointiympäristö | VMware |
 | :---- | :---- |
