@@ -106,14 +106,13 @@ Projektin avulla osoitan osaamiseni järjestelmätuen ja IT**\-**tuen työtehtä
 - #tekninen-ympäristö
 ## 📅 Viikkokohtainen työ
 
-- ✅ [Week 1 – Suunnittelu & alkuasetukset](#week-1--suunnittelu--alkuasetukset)
-- 🖥️ [Week 2 – Virtuaaliympäristö](#week-2--virtuaaliympäristö)
-- ⚙️ [Week 3 – Palvelimen asennus](#week-3--palvelimen-asennus)
-- 🔐 [Week 4 – Active Directory](#week-4--active-directory)
-- 👥 [Week 5 – Käyttäjät & ryhmät](#week-5--käyttäjät--ryhmät)
-- 🛠️ [Week 6 – GPO & määritykset](#week-6--gpo--määritykset)
-- ✅ [Week 7 – Testaus & dokumentaatio](#week-7--testaus--dokumentaatio)
-``
+- ✅ [Week 1 – Suunnittelu & alkuasetukset](docs/week-1.md)
+- 🖥️ [Week 2 – Virtuaaliympäristö](docs/week-2.md)
+- ⚙️ [Week 3 – Palvelimen asennus](docs/week-3.md)
+- 🔐 [Week 4 – Active Directory](docs/week-4.md)
+- 👥 [Week 5 – Käyttäjät & ryhmät](docs/week-5.md)
+- 🛠️ [Week 6 – GPO & määritykset](docs/week-6.md)
+- ✅ [Week 7 – Testaus & dokumentaatio](docs/week-7.md)
 ---
 
 # 📅 VIikkokohtainen työ
@@ -127,7 +126,7 @@ Projektin avulla osoitan osaamiseni järjestelmätuen ja IT**\-**tuen työtehtä
 - Vaatimusten määrittely
 - VMware asennus
 - Windows Server ISO lataus
-  >>## [Week 1 – Suunnittelu & alkuasetukset](#week-1--suunnittelu--alkuasetukset)
+  >>## [Week 1 – Suunnittelu & alkuasetukset](docs/week-1.md)
   
 
 
