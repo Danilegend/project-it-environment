@@ -1,6 +1,6 @@
 
    >>## [Home](/README.md)
->  >>>## [week-1](/week-1.md) 
+>  >>>## [week-1](/doc/week-1.md) 
 
 
 
