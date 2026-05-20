@@ -42,7 +42,7 @@ VMware VM \> New \> Nimi ja käyttöjärjestelmä \> Muisti (RAM) \> Kiintolevy 
 1\. Windows Server **\-**ISO**\-**tiedoston asentamista varten voit etsiä millä tahansa hakukoneella hakusanalla [Windows Server ISO version tai Windows Server 2022 | Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022) ja valita Windows Server 2022:n uusimman version.
 
 
-**![installation VMWARE](/images/vmware/sub_vmware/vmLuom.drawio.png)**??
+**![installation VMWARE](/images/server/serla.drawio.png)**
 
 
 2\. Lataus kestää jonkin aikaa. Kun lataus on valmis, avaa VMware Workstation **\-**sovellus ja luo virtuaalikone.
