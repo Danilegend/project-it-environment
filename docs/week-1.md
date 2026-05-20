@@ -15,18 +15,11 @@
 
 **![installation VMWARE](/images/vmware/finalVMware.drawio.png)**
 
-
-
-Kun kaikki on valmista, napsauta \> **Install**.  
-Odota, että asennus valmistuu, ja napsauta lopuksi \> **Finish.**
-
-|  |  |
-| :---- | :---- |
-
 Voit käynnistää sovelluksen **Windowsin työpöydällä olevasta pikakuvakkeesta**.   
  Nyt näemme VMware**\-**alustan.
+ 
 
-## **7\. WINDOWS SERVER** \-**ISO**\-**TIEDOSTON LATAAMINEN** {#7.-windows-server--iso-tiedoston-lataaminen}
+## **7\. WINDOWS SERVER** \-**ISO**\-**TIEDOSTON LATAAMINEN** 
 
 1\. Windows Server **\-**ISO**\-**tiedoston asentamista varten voit etsiä millä tahansa hakukoneella hakusanalla [Windows Server ISO version tai Windows Server 2022 | Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022) ja valita Windows Server 2022:n uusimman version.
 
