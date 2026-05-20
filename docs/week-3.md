@@ -13,6 +13,11 @@
 * Seuraan palvelimia (monitorointi)
 
 **![structure of the project](/images/other/Northwind-Page-3.drawio.png)**
+**![structure of the project](/images/other/Network.drawio.png)**
+
+
+
+
 
 
 ## **10\. ACTIVE DIRECTORYN ASENTAMINEN** {#10.-active-directoryn-asentaminen}
