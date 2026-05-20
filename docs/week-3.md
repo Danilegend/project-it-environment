@@ -46,3 +46,9 @@
 
 - #projektin-yleiskuvaus
 - #tekninen-ympäristö
+
+
+<< [week-1](/docs/week-1.md) 
+<< [week-2](/docs/week-2.md) 
+>>## >> [Week 4 – Palvelimen asennus](/docs/week-4.md)
+
