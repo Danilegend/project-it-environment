@@ -1,4 +1,4 @@
-
+ >>## [Home](/README.md)     - [week-1](/docs/week-1.md)  - [week-2](/docs/week-1.md) 
 
 - 
   ## **3\. PROJEKTIN TAVOITTEET** 
