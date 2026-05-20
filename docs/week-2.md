@@ -10,11 +10,12 @@
 ---
 
 ### Tasks
-- Created Virtual Machine (VM)
-- Configured:
-  - RAM
-  - Disk size
-  - Network settings
+
+  - Asenna Windows Server 2022
+  - Alustava palvelimen määritys
+  - Määritä Administrator‑tili
+
+
 ----
 
 
