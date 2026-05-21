@@ -41,9 +41,14 @@ Nyt määritetään Windows jakamaan internet-yhteys WAN-liitännästä LAN-verk
 
 Nyt palvelin jakaa internet-yhteyden sisäverkkoon.
 
-**![][image20]**
 
-**![][image21]**
+
+
+https://github.com/user-attachments/assets/7c2eb915-238d-4500-b3bc-5375709adb0d
+
+
+
+
 
 ## 
 
