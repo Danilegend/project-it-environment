@@ -59,6 +59,7 @@ https://github.com/user-attachments/assets/7c2eb915-238d-4500-b3bc-5375709adb0d
 Palvelin toimii reitittimenä käyttäen NAT**\-**asetuksia.  
 Työasemat saavat IP**\-**osoitteet DHCP**\-**palvelun kautta.
 
+<img width="1031" height="1643" alt="DHCP drawio" src="https://github.com/user-attachments/assets/9f23e3ed-6e88-41be-ae9e-3a288fb6e570" />
 
 
 
