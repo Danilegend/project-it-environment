@@ -34,15 +34,9 @@ images/videos/installation.mp4
 
 ## 🎥 VMware asennusvideo
 
+## Demo Video
 
-## 🎥 VMware video
-
-▶️ Klikkaa kuvaa katsoaksesi video
-
-[![VMware video]
-(https://img.youtube.com/vi/dpyBOETfEsg/0.jpg)]
-(https://youtu.be/dpyBOETfEsg)
-``
+[![Watch the video](https://img.youtube.com/vi/dpyBOETfEsg/0.jpg)](https://youtu.be/dpyBOETfEsg)
 
 
 
