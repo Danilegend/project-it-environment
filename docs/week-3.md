@@ -61,7 +61,13 @@ https://github.com/user-attachments/assets/b173b5cd-8502-4628-9867-ff6878026ae6
 1\. Kirjaudu sisään Windows Serveriin.  
 2\. Avaa Windows Server ja etsi “Server Manager.”
 
-**![structure of the project](/images/AD_DS/Screenshot from 2026-04-27 12-17-28.png)**
+<img width="751" height="470" alt="image" src="https://github.com/user-attachments/assets/bac47b51-a485-4854-9bc8-ba3d5b063ece" />
+
+Roolin asennuksen jälkeen Promota DC1 toimialueen ohjauskoneeksi.
+
+<img width="565" height="266" alt="image" src="https://github.com/user-attachments/assets/0be1553e-7e65-4c8f-a6b8-c330745fedc4" />
+
+
 
 3\. Valitse asennustyypiksi “**Roolipohjainen tai ominaisuuspohjainen asennus**”  
 4\. Valitse kohdepalvelin ja napsauta “**Next**”.
