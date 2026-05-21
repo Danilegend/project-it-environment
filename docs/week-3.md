@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/b173b5cd-8502-4628-9867-ff6878026ae6
 1\. Kirjaudu sisään Windows Serveriin.  
 2\. Avaa Windows Server ja etsi “Server Manager.”
 
-**![][image8]**
+**![structure of the project](/images/AD_DS/Screenshot from 2026-04-27 12-17-28.png)**
 
 3\. Valitse asennustyypiksi “**Roolipohjainen tai ominaisuuspohjainen asennus**”  
 4\. Valitse kohdepalvelin ja napsauta “**Next**”.
