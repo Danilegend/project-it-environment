@@ -1,7 +1,4 @@
 
-
-
-
  >>## [Home](/README.md)     - [week-1](/docs/week-1.md)  - [week-2](/docs/week-1.md) 
 
 
@@ -23,24 +20,19 @@
 
 
 
-
-
-
-
-## 🎥 Video
-
-Watch VMware installation video
-(images/videos/installation.mp4)
-
-
-▶️ Katso video:
-images/videos/installation.mp4
-
-## 🎥 VMware asennusvideo
+## 🎥 ACTIVE DIRECTORYN ASENTAMINEN
 
 ## Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/dpyBOETfEsg/0.jpg)](https://youtu.be/dpyBOETfEsg)
+
+
+
+▶️ Katso video: 
+
+https://github.com/user-attachments/assets/b173b5cd-8502-4628-9867-ff6878026ae6
+
+
+
 
 
 
