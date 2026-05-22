@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/beeb05d1-9128-4238-b270-82614148d86e
 
 https://github.com/user-attachments/assets/d50d9a82-9153-4b43-80aa-8307b6c5982b
 
-**Helpdesk‑tehtävät**
+## **Helpdesk‑tehtävät**
 <img width="3780" height="4444" alt="image" src="https://github.com/user-attachments/assets/3a78652a-1f8e-47e7-a021-7c93265040e9" />
 
 
