@@ -22,20 +22,24 @@
 
 
 ## 🎥 **1 Kotikansion luominen**
+---
 
 
 
 https://github.com/user-attachments/assets/beeb05d1-9128-4238-b270-82614148d86e
 
 ## 🎥 **2 Kotikansion luominen**
+---
 
 https://github.com/user-attachments/assets/d50d9a82-9153-4b43-80aa-8307b6c5982b
 
 ## **Helpdesk‑tehtävät**
+---
 <img width="3780" height="4444" alt="image" src="https://github.com/user-attachments/assets/3a78652a-1f8e-47e7-a021-7c93265040e9" />
 
 
 ##  **2 Toisen palvelimen liittäminen**
+---
 
 Toisen palvelimen liittäminen Toimialueeseen (DAN01 – tiedostopalvelin)
 **Administrator ja Password**
@@ -44,7 +48,13 @@ Toisen palvelimen liittäminen Toimialueeseen (DAN01 – tiedostopalvelin)
 
 <img width="2560" height="1440" alt="Screenshot from 2026-05-22 19-34-52" src="https://github.com/user-attachments/assets/4a65009f-8746-453a-85fe-bb8d038be538" />
 
+
+## **3-Delegation**
 ----
+
+<img width="883" height="1465" alt="Deligation drawio" src="https://github.com/user-attachments/assets/322329c7-8ce8-4b3b-9fc4-38d387768a68" />
+
+
 Käyttäjät ja ryhmät
 
 Käyttäjätilien luonti Ryhmät Salasanapolitiikka 
