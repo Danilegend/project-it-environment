@@ -67,7 +67,7 @@ Projektin avulla osoitan osaamiseni järjestelmätuen ja IT**\-**tuen työtehtä
 - ✅ [Week 1 – Suunnittelu & alkuasetukset](docs/week-1.md)
 - 🖥️ [Week 2 – Virtuaaliympäristö](docs/week-2.md)
 - ⚙️ [Week 3 – Palvelimen asennus](docs/week-3.md)
-- 🔐 [Week 4 – VERKKOSOVITTIMIEN MÄÄRITYS](docs/week-4.md)
+- 🔐 [Week 4 – verkkosovittimien määritys](docs/week-4.md)
 - 👥 [Week 5 – Käyttäjät & ryhmät](docs/week-5.md)
 - 🛠️ [Week 6 – GPO & määritykset](docs/week-6.md)
 - ✅ [Week 7 – Testaus & dokumentaatio](docs/week-7.md)
