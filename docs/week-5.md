@@ -1,5 +1,13 @@
 
 
+
+
+
+* Luon käyttäjät, ryhmät ja OU-rakenteen  
+* Määritän GPO-käytännöt (esim. ruudunlukitus, USB-esto)  
+* Teen varmuuskopion ja testaan palautuksen  
+* Seuraan palvelimia (monitorointi)
+
 ## 
 ## **3.2 Teknisen tukipalvelun tavoitteet:**   
 
