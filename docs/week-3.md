@@ -102,7 +102,7 @@ Wizard käynnistyy seuraavaksi, lisätään uusi metsä Northwind.local
 <img width="754" height="556" alt="Screenshot from 2026-05-21 15-52-10" src="https://github.com/user-attachments/assets/24ea8b9e-207e-47a4-8c62-69adb22079c8" />
 
 
-Next > Määritä Restore Mode salasana, P@ssw0rd
+Next > Määritä Restore Mode salasana, ********
 
 
 <img width="742" height="369" alt="image" src="https://github.com/user-attachments/assets/ad8d8079-5cce-4012-9a66-abc6b5187fdc" />
