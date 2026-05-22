@@ -9,10 +9,7 @@
 ----
 * Asennan Windows Server 2022 \-palvelimen  
 * Teen Active Directory \-domainin  
-* Luon käyttäjät, ryhmät ja OU-rakenteen  
-* Määritän GPO-käytännöt (esim. ruudunlukitus, USB-esto)  
-* Teen varmuuskopion ja testaan palautuksen  
-* Seuraan palvelimia (monitorointi)
+
 
 
 
