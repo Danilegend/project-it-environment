@@ -4,7 +4,7 @@
 ---
 
 
-## Week 2 – Virtuaaliympäristö
+## Viikko 2 – Virtuaaliympäristö
 📅 18–24 April  
 
 ---
