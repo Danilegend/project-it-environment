@@ -68,3 +68,4 @@ Työasemat saavat IP**\-**osoitteet DHCP**\-**palvelun kautta.
 << [week-1](/docs/week-1.md) 
 << [week-2](/docs/week-2.md) 
 << [week-3](/docs/week-3.md) 
+>>## >> [Week 5 – Palvelimen asennus](/docs/week-5.md)
