@@ -57,7 +57,10 @@ Asetukset:
 **![structure of the project](/images/other/Northwind-Page-3.drawio.png)**
 **![structure of the project](/images/other/Network.drawio.png)**
 
+## **1 Levyjen osiointi**
 
+
+https://github.com/user-attachments/assets/5058fb62-6b59-48bc-8ad0-e818e60cc67c
 
 
 
