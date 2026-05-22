@@ -61,6 +61,9 @@ Asetukset:
 ##  **LEVYJEN OSIOINTI**
 Käytetään Disk Management:iä ja määrittele tarvittavat osiot 
 
+<img width="1217" height="712" alt="Screenshot from 2026-05-22 12-08-50" src="https://github.com/user-attachments/assets/ba2622f8-2f9e-47a0-a342-b3cdd1d8fc81" />
+
+
 ## 🎥 **1 Levyjen osiointi**
 https://github.com/user-attachments/assets/5058fb62-6b59-48bc-8ad0-e818e60cc67c
 
