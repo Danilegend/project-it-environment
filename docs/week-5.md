@@ -8,7 +8,88 @@
 ----
 
 
+:::
+:::
+------
 
+Projektin vaiheet
+Viikko 1 – Suunnittelu
+
+Projektisuunnitelma
+Asiakasvaatimukset
+Ympäristön valmistelu
+Virtualisointiympäristön asennus
+
+Tuotokset:
+Projektisuunnitelma, vaatimusmäärittely, video 1.
+
+Viikko 2 – Palvelin ja verkko
+
+Windows Server ‑asennus
+AD‑domainin luonti
+IP‑osoitteet
+
+Tuotokset:
+Palvelinasennuksen dokumentti, videota 2–3.
+
+Viikko 3 – Käyttäjät ja ryhmät
+
+Käyttäjätilien luonti
+Ryhmät
+Salasanapolitiikka
+Perus‑GPO‑asetukset
+
+Tuotokset:
+Käyttäjälista, GPO‑dokumentti, video 4.
+
+Viikko 4 – Työasemat
+
+Windows 10/11 asennus
+Työaseman liittäminen domainiin
+Sovellusten asennus
+Vakioitu työasema
+
+Tuotokset:
+Työaseman kuvaus, video 5–6.
+
+Viikko 5 – Tietoturva ja varmuuskopio
+
+Antivirus
+Palomuuri
+Varmuuskopion tekeminen
+Varmuuskopion palautus
+
+Tuotokset:
+Tietoturvadokumentti, varmuuskopiointi, video 7.
+
+Viikko 6 – Helpdesk‑tehtävät
+Teen 4–6 tyypillistä tukipyyntöä:
+
+En pääse kirjautumaan
+Tulostin ei toimi
+Ei internet‑yhteyttä
+Outlook ei käynnisty
+
+Teen dokumentit ja videot ratkaisusta.
+Tuotokset:
+Tukipyyntöjen dokumentit, video 8.
+
+Viikko 7 – Dokumentointi ja valmistelu
+
+Kaikkien dokumenttien viimeistely
+"Tutkintoexcel" täyttö
+PowerPoint esitys (suomeksi)
+Harjoittelu
+
+
+Viikko 8 – Näyttö
+
+Projektin esittely
+Videoiden ja ympäristön näyttö
+Kysymyksiin vastaaminen
+
+
+------
 
 
 * Luon käyttäjät, ryhmät ja OU-rakenteen  
