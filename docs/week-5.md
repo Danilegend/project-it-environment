@@ -164,3 +164,14 @@ Kysymyksiin vastaaminen
 
 - #projektin-yleiskuvaus
 - #tekninen-ympäristö
+
+
+
+<< [Home](/README.md)  
+<< [week-1](/docs/week-1.md) 
+<< [week-2](/docs/week-2.md) 
+<< [week-3](/docs/week-3.md) 
+<< [week-4](/docs/week-4.md) 
+<< [week-5](/docs/week-5.md) 
+>>## >> [Week 6 – Palvelimen asennus](/docs/week-6.md)
+
