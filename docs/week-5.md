@@ -4,7 +4,17 @@
 
 ## Week 5 – Käyttäjät & ryhmät** 
 📅 2–02 May
+----
 
+### 🔧 Tehtävät
+
+  - Asenna Remote Access
+  - Alustava DHCP
+  - Määritä Administrator‑tili
+  - \- WAN (internet)  
+  \- LAN (sisäverkko)
+
+---
 ----
 Käyttäjät ja ryhmät
 
