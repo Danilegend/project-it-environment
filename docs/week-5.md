@@ -8,11 +8,8 @@
 
 ### 🔧 Tehtävät
 
-  - Asenna Remote Access
-  - Alustava DHCP
-  - Määritä Administrator‑tili
-  - \- WAN (internet)  
-  \- LAN (sisäverkko)
+  - Käyttäjät & ryhmät
+  - Kotikansion luominen
 
 ---
 
