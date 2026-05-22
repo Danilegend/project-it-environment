@@ -1,3 +1,4 @@
+
  >>## [Home](/README.md)
 >> [viikko-1](/docs/week-1.md) >> [viikko-2](/docs/week-2.md) >> [viikko-3](/docs/week-3.md) >> [viikko-4](/docs/week-4.md) >> [viikko-5](/docs/week-5.md)  >> [viikko-6](/docs/week-6.md) >> [viikko-7](/docs/week-7.md) >> [viikko-8](/docs/week-8.md) 
 ---
@@ -12,6 +13,7 @@
   - Kotikansion luominen
 
 ---
+<img width="1031" height="481" alt="Rhymäat drawio" src="https://github.com/user-attachments/assets/48755b2e-4e10-4e7c-9ff6-f780dac96be1" />
 
 <img width="1039" height="2311" alt="AD_rhymät drawio" src="https://github.com/user-attachments/assets/20afd78c-0232-453d-ad10-dd59c2e7eae6" />
 
