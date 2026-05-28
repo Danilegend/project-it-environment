@@ -20,17 +20,12 @@ Tulostimet
   - Käyttäjät & ryhmät
   - Kotikansion luominen
   - Helpdesk‑tehtävät
-  - Toisen palvelimen liittäminen 
+  - Toisen palvelimen liittäminen
+<img width="2916" height="1880" alt="image" src="https://github.com/user-attachments/assets/add6b866-19c7-4598-9cb1-1fdd0cbad904" />
+<img width="3900" height="3256" alt="image" src="https://github.com/user-attachments/assets/7405e883-9bb4-408d-b10b-91d225e8d1e2" />
 
----
-
-
-<img width="4220" height="15128" alt="GPO" src="https://github.com/user-attachments/assets/9bcb2b1f-ef43-432f-8cc2-e247f5f4b26e" />
-
-
-<img width="4220" height="15128" alt="image" src="https://github.com/user-attachments/assets/39a18ff6-d093-4a82-a283-ce2a9a354bb6" />
-
-
+ 
+<img width="1035" height="3752" alt="GPO3" src="https://github.com/user-attachments/assets/03bc6aec-3bd9-417e-b2ce-c500bbf7199f" />
 
 
 
