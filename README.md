@@ -73,7 +73,7 @@ Projektin avulla osoitan osaamiseni järjestelmätuen ja IT**\-**tuen työtehtä
 - 👥 [Week 5 – Käyttäjät & ryhmät](docs/week-5.md)
 - 🛠️ [Week 6 – GPO & määritykset](docs/week-6.md)
 - ✅ [Week 7 – Pilven hallintatyökalujen esittely](docs/week-7.md)
-- ✅ [Week 8 – Testaus & dokumentaatio](docs/week-8.md)
+- ✅ [Week 8 – Varmuuskopiointi](docs/week-8.md)
 - ✅ [Week 9 – nöyto](docs/week-9.md)
 ---
 
