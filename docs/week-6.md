@@ -8,12 +8,31 @@
 
 ### 🔧 Tehtävät
 
+  - Salasana käytänteet 
+  - Windows Update 
+  - Osasto levyjaot 
+
+Tulostimet 
+ 
+  -
+  -
+  -
   - Käyttäjät & ryhmät
   - Kotikansion luominen
   - Helpdesk‑tehtävät
   - Toisen palvelimen liittäminen 
 
 ---
+
+
+<img width="1035" height="3762" alt="GPO" src="https://github.com/user-attachments/assets/9bcb2b1f-ef43-432f-8cc2-e247f5f4b26e" />
+
+
+
+
+
+
+
 
 
 Käyttäjät ja ryhmät
