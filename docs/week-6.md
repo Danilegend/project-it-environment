@@ -25,9 +25,10 @@ Tulostimet
 ---
 
 
-<img width="1035" height="3762" alt="GPO" src="https://github.com/user-attachments/assets/9bcb2b1f-ef43-432f-8cc2-e247f5f4b26e" />
+<img width="4220" height="15128" alt="GPO" src="https://github.com/user-attachments/assets/9bcb2b1f-ef43-432f-8cc2-e247f5f4b26e" />
 
 
+<img width="4220" height="15128" alt="image" src="https://github.com/user-attachments/assets/39a18ff6-d093-4a82-a283-ce2a9a354bb6" />
 
 
 
