@@ -8,19 +8,13 @@
 
 ### 🔧 Tehtävät
 
-  - Salasana käytänteet 
-  - Windows Update 
-  - Osasto levyjaot 
+  - Password Policy
+  - Desktop wallpaper
+  - Folder Redirection Policy
+  - Software Installation -7-Zip
+  - Drive Mapping
+---
 
-Tulostimet 
- 
-  -
-  -
-  -
-  - Käyttäjät & ryhmät
-  - Kotikansion luominen
-  - Helpdesk‑tehtävät
-  - Toisen palvelimen liittäminen
 <img width="2916" height="1880" alt="image" src="https://github.com/user-attachments/assets/add6b866-19c7-4598-9cb1-1fdd0cbad904" />
 <img width="3900" height="3256" alt="image" src="https://github.com/user-attachments/assets/7405e883-9bb4-408d-b10b-91d225e8d1e2" />
 
